@@ -1,4 +1,6 @@
-dist
+./webapp/dist
+./webapp/node_modules
+./webapp/yarn-error.log
+./webapp/.DS_Store
 node_modules
-yarn-error.log
-.DS_Store
+./server/*.pyc
